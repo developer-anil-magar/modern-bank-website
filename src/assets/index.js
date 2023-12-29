@@ -1,3 +1,4 @@
+/* eslint-disable quotes */
 import airbnb from "./airbnb.png";
 import bill from "./bill.png";
 import binance from "./binance.png";
